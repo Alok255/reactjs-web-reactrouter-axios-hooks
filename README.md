@@ -1,4 +1,3 @@
----
 ## Installation
 
 1. Clone this project `git clone https://github.com/Alok255/reactjs-web-reactrouter-axios-hooks.git`
@@ -6,7 +5,6 @@
 3. Install all packages with `yarn` or `npm install`
 4. Start the server with `yarn start`
 5. Creat your mockAPI: https://mockapi.io/
----
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
